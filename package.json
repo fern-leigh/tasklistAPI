@@ -1,0 +1,14 @@
+{
+  "name": "tasklist",
+  "version": "1.0.0",
+  "description": "a basic tasklist backend",
+  "main": "app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "ferleigh.us@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
